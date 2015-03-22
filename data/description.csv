@@ -3,5 +3,5 @@ label,sublabel,description,styles,bgcolor
 資源,,,img/shigen02.svg,#77ae1f
 燃やすごみ,,,img/moyasu02.svg,#ea3b13
 びん,,,img/bin02.svg,#2dc7aa
-プラ,,,img/bin02.svg,#c0c0c0
+プラ,,,,#c0c0c0
 紙,,,img/bin02.svg,#deb887
