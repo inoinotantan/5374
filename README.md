@@ -8,7 +8,7 @@
 
 ## 使い方
 
-[5374 for Kanazawa](http://kanazawa.5374.jp/ )について説明します。
+[5374 for Toyama City](http://codefortoyama.github.io/5374/ )について説明します。
 
 * **色でゴミのジャンルを表示**: 一番近いゴミの日とジャンルを上から順に表示しています。
 
